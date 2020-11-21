@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/jmackie/emoji-picker",
+  "rev": "1810df8dd15f00819f7a01eee821361cd00fa18e",
+  "date": "2020-05-05T09:25:16+01:00",
+  "path": "/nix/store/jwaszn7scpd9ljiqysfk02nb39lhvy46-emoji-picker",
+  "sha256": "0dahwn4ppip2mh8dhxs1ifkyldj1k0jy73n7y0fkcbia4jd5h6g9",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
